@@ -7,15 +7,15 @@
         <relativePath/>
     </parent>
     <groupId>com.github.yihtserns</groupId>
-    <artifactId>logback-groovy-sift</artifactId>
+    <artifactId>logback-gaffer-sift</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Logback Groovy - Sift</name>
-    <description>Extends Logback's Groovy DSL so can configure AppenderFactory for SiftingAppender</description>
-    <url>http://github.com/yihtserns/logback-groovy-sifting-appender</url>
+    <name>Logback Gaffer - Sift</name>
+    <description>Extends Logback Gaffer so can configure SiftingAppender in Groovy DSL</description>
+    <url>http://github.com/yihtserns/logback-gaffer-sift</url>
     <issueManagement>
-        <url>http://github.com/yihtserns/logback-groovy-sifting-appender/issues</url>
+        <url>http://github.com/yihtserns/logback-gaffer-sift/issues</url>
     </issueManagement>
 
     <licenses>
@@ -27,9 +27,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:yihtserns/logback-groovy-sifting-appender.git</connection>
-        <developerConnection>scm:git:git@github.com:yihtserns/logback-groovy-sifting-appender.git</developerConnection>
-        <url>git@github.com:yihtserns/logback-groovy-sifting-appender.git</url>
+        <connection>scm:git:git@github.com:yihtserns/logback-gaffer-sift.git</connection>
+        <developerConnection>scm:git:git@github.com:yihtserns/logback-gaffer-sift.git</developerConnection>
+        <url>git@github.com:yihtserns/logback-gaffer-sift.git</url>
     </scm>
 
     <developers>

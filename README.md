@@ -1,6 +1,6 @@
-Logback Groovy - Sift
+Logback Gaffer - Sift
 =====================
-Extends Logback's Groovy DSL so can configure AppenderFactory for SiftingAppender, e.g.:
+Extends Logback Gaffer so can configure SiftingAppender in Groovy DSL, e.g.:
 
 ```groovy
 import ch.qos.logback.classic.sift.SiftingAppender
@@ -28,6 +28,6 @@ root(DEBUG, ["SIFT"])
 
 Usage instruction
 -----------------
-1. Build or [download](https://github.com/yihtserns/logback-groovy-sift/releases/latest) the jar for this project.
+1. Build or [download](https://github.com/yihtserns/logback-gaffer-sift/releases/latest) the jar for this project.
 2. Put it where you put `logback-classic-$VERSION.jar`.
 3. Done!

@@ -1,3 +1,3 @@
-moduleName=LogbackGroovySift
+moduleName=LogbackGafferSift
 moduleVersion=0.0.0
-extensionClasses=com.github.yihtserns.logback.groovy.sift.SiftExtension
+extensionClasses=com.github.yihtserns.logback.gaffer.sift.SiftExtension
