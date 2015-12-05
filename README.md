@@ -28,6 +28,6 @@ root(DEBUG, ["SIFT"])
 
 Usage instruction
 -----------------
-1. Build the jar for this project.
+1. Build or [download](https://github.com/yihtserns/logback-groovy-sift/releases/latest) the jar for this project.
 2. Put it where you put `logback-classic-$VERSION.jar`.
 3. Done!
