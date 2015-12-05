@@ -4,11 +4,11 @@
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
         <version>7</version>
-        <relativePath/>
+        <relativePath />
     </parent>
     <groupId>com.github.yihtserns</groupId>
     <artifactId>logback-gaffer-sift</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <name>Logback Gaffer - Sift</name>
