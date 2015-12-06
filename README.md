@@ -1,6 +1,6 @@
 Logback Gaffer - Sift
 =====================
-Extends Logback Gaffer so can configure SiftingAppender in Groovy DSL, e.g.:
+Since the [official support is dropped in version 1.0.12](http://logback.qos.ch/manual/groovy.html#sift), this project extends Logback Gaffer so that `SiftingAppender` can be configured in Groovy DSL, e.g.:
 
 ```groovy
 import ch.qos.logback.classic.sift.SiftingAppender
